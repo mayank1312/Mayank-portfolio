@@ -686,3 +686,6 @@ main{
   box-shadow: 0 8px 16px rgba(255, 255, 255, 0.4); /* Lighter shadow on hover */
   transform: translateY(-5px); /* Slight lift effect */
 }
+.detail a{
+  color:white;
+}

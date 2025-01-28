@@ -225,7 +225,7 @@ Technologies Used<br/>
       <h2>Currently Pursuing</h2>
       <p>B.Tech in Computer Science and Engineering (In CSE-DS)</p><br/>
       <h2>Completed</h2>
-      <p>High School at Vidya Mndir Public School (Faridabad,Haryana,India)</p>
+      <p>High School at Vidya Mandir Public School(Haryana)</p><br/>
     </div>
 </section>
         <section id="contact" className="section contacts-section">
@@ -277,7 +277,7 @@ Technologies Used<br/>
             src="email.png"
             alt="Email"
           />
-          <p>mayankdeepakdhingra@gmail.com</p>
+          <a href="mailto:mayankdeepakdhingra@gmail.com">Email</a>
         </div>
         <div className="detail">
           <img
