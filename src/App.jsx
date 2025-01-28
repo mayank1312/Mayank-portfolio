@@ -89,7 +89,7 @@ const Portfolio = () => {
 modern frameworks and relational database management systems.Experienced in API integration and building responsive web applications, with a strong focus on performance, user
 experience, and scalability.
 </p><br/>
-<a href="https://drive.google.com/file/d/15fW15g7ZnLaWfxP6fDI5wwfyZUSnW6Qj/view?usp=drive_link" download className="btn btn-primary">
+<a href="https://drive.google.com/file/d/15fW15g7ZnLaWfxP6fDI5wwfyZUSnW6Qj/view?usp=sharing" download className="btn btn-primary">
     Get Resume
   </a>
           </div>
