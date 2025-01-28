@@ -89,7 +89,7 @@ const Portfolio = () => {
 modern frameworks and relational database management systems.Experienced in API integration and building responsive web applications, with a strong focus on performance, user
 experience, and scalability.
 </p><br/>
-<a href="MAYANK-DHINGRA-resume.pdf" download className="btn btn-primary">
+<a href="/assets/MAYANK-DHINGRA-resume.pdf" download className="btn btn-primary">
     Download Resume
   </a>
           </div>
