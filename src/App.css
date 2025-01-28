@@ -306,38 +306,6 @@ main{
   margin: 5px 0;
 }
 /* Responsive Adjustments */
-@media (max-width: 900px) {
-  .education-section {
-    flex-direction: column; /* Stack the panels vertically */
-    height: auto; /* Allow content to expand naturally */
-    margin-bottom:30px;
-  }
-
-  .left-panel,
-  .right-panel {
-    width: 100%; /* Full width for each panel on smaller screens */
-    height: auto; /* Allow the panels to grow with content */
-    padding: 10px;
-  }
-
-  .left-panel img {
-    width: 150px; /* Reduce image size */
-    height: 120px;
-  }
-
-  .left-panel h1 {
-    font-size: 20px; /* Adjust heading size for small screens */
-  }
-
-  .right-panel h2 {
-    font-size: 18px; /* Adjust text size */
-  }
-
-  .right-panel p {
-    font-size: 16px; /* Adjust text size */
-  }
-}
-
 
 
 .whatsapp-float {
@@ -608,11 +576,7 @@ main{
   transition: flex-direction 0.3s ease-in-out;
 }
 
-@media (max-width: 900px) {
-  .education-section {
-    flex-direction: column;
-  }
-}
+
 
 /* WhatsApp Floating Button Hover Effect */
 .whatsapp-float {
